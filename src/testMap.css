@@ -1,0 +1,13 @@
+path::before {
+  /* style the pseudo-element */
+  content: attr(title);
+  /* display the value of the title attribute */
+  position: absolute;
+  /* position the pseudo-element */
+  top: 10px;
+  left: 10px;
+  background-color: white;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
