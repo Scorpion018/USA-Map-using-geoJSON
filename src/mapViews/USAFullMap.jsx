@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Map, GeoJSON } from 'react-leaflet';
-import bezirke from './uSA20m.json';
+import bezirke from '../uSA20m.json';
 import { json } from 'd3-fetch';
 //get data from data file(s)
 

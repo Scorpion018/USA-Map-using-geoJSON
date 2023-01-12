@@ -1,6 +1,6 @@
 import React from 'react';
 import { geoAlbersUsa, geoPath } from 'd3-geo';
-import usaGeoJSON from './uSA20m.json'; // import the GeoJSON data for the United States
+import usaGeoJSON from '../uSA20m.json'; // import the GeoJSON data for the United States
 
 class TestMap extends React.Component {
   constructor(props) {
@@ -37,7 +37,7 @@ class TestMap extends React.Component {
     });
 
     return (
-      <div style={{ textAlign: 'center' }}>
+      <div style={{ textAlign: '', display: 'flex' }}>
         <div>
           {/* <div style={{ border: '1px solid black', backgroundColor: 'white' }}> */}
           <svg
@@ -48,9 +48,12 @@ class TestMap extends React.Component {
             {states}
           </svg>
         </div>
-        <h1>
-          {this.state.stateName && <div className="state-name">{this.state.stateName}</div>}
-        </h1>
+        <div style={{ marginTop: '20px', marginLeft: '20%' }}>
+          <h1>
+            {this.state.stateName && <div className="state-name">{this.state.stateName}</div>}
+            <canvas style="width: 100px; height: 40px" id="plarChart"></canvas>
+          </h1>
+        </div>
       </div >
     );
   }

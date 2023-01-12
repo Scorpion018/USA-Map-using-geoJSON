@@ -1,0 +1,1537 @@
+{
+  "features": [
+    {
+      "status": "Attention",
+      "BrokerCity": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Email",
+            "location": [],
+            "pageNumber": 1
+          },
+          "fieldName": "BrokerCity",
+          "confidence": 100,
+          "extractedValue": "Daytona Beach"
+        }
+      ],
+      "BrokerState": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Email",
+            "location": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "pageNumber": 1
+          },
+          "fieldName": "BrokerState",
+          "confidence": 100,
+          "extractedValue": "OR"
+        }
+      ],
+      "attachments": [
+        "Acord 125.PDF",
+        "GL.PDF",
+        "Crime.PDF",
+        "Equipment.PDF",
+        "Equipment Schedule.XLSX",
+        "Auto.PDF",
+        "Umbrella.PDF",
+        "17-22 IMAR Macduff Markel 3 21 22.PDF",
+        "16-22 CAUT Auto Owners 3 23 22.PDF",
+        "16-22 CUMB Auto Owners 3 23 22.PDF",
+        "17-22 PCKG Auto Owners 3 23 22.PDF"
+      ],
+      "SubmissionID": "90",
+      "VehicleCount": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Auto.PDF",
+            "location": [
+              0.053003533568904596,
+              0.5336976320582878,
+              0.005889281507656066,
+              0.00819672131147541
+            ],
+            "pageNumber": 6
+          },
+          "confidence": 89,
+          "extractedValue": "33"
+        }
+      ],
+      "BrokerFullName": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.08652094717668488,
+              0.15901060070671377,
+              0.008196721311475405
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 89,
+          "extractedValue": "Brown & Brown of Florida, Inc."
+        }
+      ],
+      "StructuredFlag": "True",
+      "NamedInsuredDBA": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.6402550091074681,
+              0.21672555948174324,
+              0.008196721311475419
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 89,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 1,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.7459016393442623,
+              0.2826855123674912,
+              0.008196721311475419
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 89,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 2,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.8524590163934426,
+              0.1625441696113074,
+              0.008196721311475419
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 89,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 3,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03769140164899882,
+              0.21402550091074682,
+              0.2037691401648999,
+              0.008196721311475419
+            ],
+            "pageNumber": 6
+          },
+          "confidence": 63,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 4,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03769140164899882,
+              0.3205828779599271,
+              0.15901060070671377,
+              0.008196721311475419
+            ],
+            "pageNumber": 6
+          },
+          "confidence": 63,
+          "extractedValue": "Not Found"
+        }
+      ],
+      "BrokerPostalCode": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Email",
+            "location": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "pageNumber": 1
+          },
+          "fieldName": "BrokerPostalCode",
+          "confidence": 100,
+          "extractedValue": "32114"
+        }
+      ],
+      "NamedInsuredCity": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.6848816029143898,
+              0.41460541813898705,
+              0.008196721311475419
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 89,
+          "extractedValue": "Lake Butler"
+        },
+        {
+          "Id": 1,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.7540983606557378,
+              0.2826855123674912,
+              0.001
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 72,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 2,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.860655737704918,
+              0.1625441696113074,
+              0.001
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 72,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 3,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03769140164899882,
+              0.22222222222222224,
+              0.2037691401648999,
+              0.001
+            ],
+            "pageNumber": 6
+          },
+          "confidence": 51,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 4,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03769140164899882,
+              0.32877959927140255,
+              0.15901060070671377,
+              0.001
+            ],
+            "pageNumber": 6
+          },
+          "confidence": 51,
+          "extractedValue": "Not Found"
+        }
+      ],
+      "PolicySummaryLOB": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Email",
+            "location": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "pageNumber": 1
+          },
+          "fieldName": "PolicySummaryLOB",
+          "confidence": 50,
+          "extractedValue": "GL"
+        },
+        {
+          "Id": 1,
+          "location": {
+            "fileName": "Email",
+            "location": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "pageNumber": 1
+          },
+          "fieldName": "PolicySummaryLOB",
+          "confidence": 50,
+          "extractedValue": "IM"
+        },
+        {
+          "Id": 2,
+          "location": {
+            "fileName": "Email",
+            "location": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "pageNumber": 1
+          },
+          "fieldName": "PolicySummaryLOB",
+          "confidence": 50,
+          "extractedValue": "CRM"
+        },
+        {
+          "Id": 3,
+          "location": {
+            "fileName": "Email",
+            "location": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "pageNumber": 1
+          },
+          "fieldName": "PolicySummaryLOB",
+          "confidence": 50,
+          "extractedValue": "BUA"
+        },
+        {
+          "Id": 4,
+          "location": {
+            "fileName": "Email",
+            "location": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "pageNumber": 1
+          },
+          "fieldName": "PolicySummaryLOB",
+          "confidence": 50,
+          "extractedValue": "CUE"
+        }
+      ],
+      "BrokerContactName": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Email",
+            "location": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "pageNumber": 1
+          },
+          "fieldName": "BrokerContactName",
+          "confidence": 80,
+          "extractedValue": "Joshua Kelsey"
+        }
+      ],
+      "NamedInsuredState": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.6848816029143898,
+              0.41460541813898705,
+              0.008196721311475419
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 89,
+          "extractedValue": "FL"
+        },
+        {
+          "Id": 1,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.7540983606557378,
+              0.2826855123674912,
+              0.001
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 72,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 2,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.860655737704918,
+              0.1625441696113074,
+              0.001
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 72,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 3,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03769140164899882,
+              0.22222222222222224,
+              0.2037691401648999,
+              0.001
+            ],
+            "pageNumber": 6
+          },
+          "confidence": 51,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 4,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03769140164899882,
+              0.32877959927140255,
+              0.15901060070671377,
+              0.001
+            ],
+            "pageNumber": 6
+          },
+          "confidence": 51,
+          "extractedValue": "Not Found"
+        }
+      ],
+      "overallconfidence": "Low",
+      "BrokerContactPhone": [
+        {
+          "Id": 0,
+          "edited": true,
+          "location": {
+            "fileName": "Email",
+            "location": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "pageNumber": 1
+          },
+          "fieldName": "BrokerContactPhone",
+          "confidence": 100,
+          "extractedValue": "386-239-7204"
+        }
+      ],
+      "NamedInsuredFEINCode": [
+        {
+          "Id": 0,
+          "edited": true,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.8598351001177856,
+              0.6402550091074681,
+              0.05771495877502945,
+              0.008196721311475419
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 89,
+          "extractedValue": "59-3005809"
+        },
+        {
+          "Id": 1,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.8549019607843137,
+              0.7285671008785216,
+              0.11411764705882353,
+              0.02817328082399273
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 72,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 2,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.8549019607843137,
+              0.8345955770978492,
+              0.11411764705882353,
+              0.02817328082399273
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 72,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 3,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.855686274509804,
+              0.19842471978188428,
+              0.11411764705882353,
+              0.027567403817025143
+            ],
+            "pageNumber": 6
+          },
+          "confidence": 51,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 4,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.855686274509804,
+              0.30384731899424416,
+              0.11411764705882353,
+              0.02817328082399273
+            ],
+            "pageNumber": 6
+          },
+          "confidence": 51,
+          "extractedValue": "Not Found"
+        }
+      ],
+      "NamedInsuredFullName": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.6402550091074681,
+              0.21672555948174324,
+              0.008196721311475419
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 89,
+          "extractedValue": "North Florida Reforestation Services, Inc."
+        },
+        {
+          "Id": 1,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.7459016393442623,
+              0.2826855123674912,
+              0.008196721311475419
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 89,
+          "extractedValue": "R & E Environmental Services, Inc.(Auto & Umb Only)"
+        },
+        {
+          "Id": 2,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.8524590163934426,
+              0.1625441696113074,
+              0.008196721311475419
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 89,
+          "extractedValue": "Roberts Site Development, Inc."
+        },
+        {
+          "Id": 3,
+          "edited": true,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03769140164899882,
+              0.21402550091074682,
+              0.2037691401648999,
+              0.008196721311475419
+            ],
+            "pageNumber": 6
+          },
+          "confidence": 63,
+          "extractedValue": ""
+        },
+        {
+          "Id": 4,
+          "edited": true,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03769140164899882,
+              0.3205828779599271,
+              0.15901060070671377,
+              0.008196721311475419
+            ],
+            "pageNumber": 6
+          },
+          "confidence": 63,
+          "extractedValue": ""
+        }
+      ],
+      "NamedInsuredPostalCode": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.6848816029143898,
+              0.41460541813898705,
+              0.008196721311475419
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 89,
+          "extractedValue": "32054"
+        },
+        {
+          "Id": 1,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.7540983606557378,
+              0.2826855123674912,
+              0.001
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 72,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 2,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.860655737704918,
+              0.1625441696113074,
+              0.001
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 72,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 3,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03769140164899882,
+              0.22222222222222224,
+              0.2037691401648999,
+              0.001
+            ],
+            "pageNumber": 6
+          },
+          "confidence": 51,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 4,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03769140164899882,
+              0.32877959927140255,
+              0.15901060070671377,
+              0.001
+            ],
+            "pageNumber": 6
+          },
+          "confidence": 51,
+          "extractedValue": "Not Found"
+        }
+      ],
+      "NamedInsuredLegalEntity": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.784452296819788,
+              0.7003642987249544,
+              0.071849234393404,
+              0.00819672131147541
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 89,
+          "extractedValue": "S Corporation"
+        },
+        {
+          "Id": 1,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.05771495877502945,
+              0.8087431693989071,
+              0.06949352179034157,
+              0.006375227686703097
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 89,
+          "extractedValue": "CORPORATION"
+        },
+        {
+          "Id": 2,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.05771495877502945,
+              0.9143897996357013,
+              0.06949352179034157,
+              0.006375227686703097
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 89,
+          "extractedValue": "CORPORATION"
+        },
+        {
+          "Id": 3,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03,
+              0.27402550091074684,
+              0.94,
+              0.03
+            ],
+            "pageNumber": 6
+          },
+          "confidence": 51,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 4,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03,
+              0.3805828779599271,
+              0.94,
+              0.03
+            ],
+            "pageNumber": 6
+          },
+          "confidence": 51,
+          "extractedValue": "Not Found"
+        }
+      ],
+      "NamedInsuredPhoneNumber": [
+        {
+          "Id": 0,
+          "edited": true,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.6124852767962309,
+              0.6548269581056466,
+              0.07656065959952886,
+              0.008196721311475419
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 89,
+          "extractedValue": "386-496-3509"
+        }
+      ],
+      "BrokerContactEmailAddress": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Email",
+            "location": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "pageNumber": 1
+          },
+          "fieldName": "BrokerContactEmailAddress",
+          "confidence": 80,
+          "extractedValue": "Joshua.Kelsey@bbrown.com"
+        }
+      ],
+      "GLScheduleofHazardExposure": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.31919905771495877,
+              0.4726775956284153,
+              0.005889281507656066,
+              0.00819672131147541
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 99,
+          "extractedValue": 0
+        },
+        {
+          "Id": 1,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.31919905771495877,
+              0.563752276867031,
+              0.05182567726737338,
+              0.00819672131147541
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 99,
+          "extractedValue": 1001624
+        },
+        {
+          "Id": 2,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.31919905771495877,
+              0.6548269581056466,
+              0.04240282685512368,
+              0.00819672131147541
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 99,
+          "extractedValue": 199225
+        },
+        {
+          "Id": 3,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.3137254901960784,
+              0.19085125719478946,
+              0.1619607843137255,
+              0.01302635564980309
+            ],
+            "pageNumber": 5
+          },
+          "confidence": 54,
+          "extractedValue": 0
+        },
+        {
+          "Id": 4,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.3137254901960784,
+              0.2817328082399273,
+              0.1619607843137255,
+              0.01302635564980309
+            ],
+            "pageNumber": 5
+          },
+          "confidence": 54,
+          "extractedValue": 0
+        },
+        {
+          "Id": 5,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.31919905771495877,
+              0.3743169398907104,
+              0.0353356890459364,
+              0.00819672131147541
+            ],
+            "pageNumber": 5
+          },
+          "confidence": 99,
+          "extractedValue": 41000
+        },
+        {
+          "Id": 6,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.3137254901960784,
+              0.463495910330203,
+              0.1619607843137255,
+              0.01302635564980309
+            ],
+            "pageNumber": 5
+          },
+          "confidence": 54,
+          "extractedValue": 0
+        },
+        {
+          "Id": 7,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.31919905771495877,
+              0.5564663023679417,
+              0.005889281507656066,
+              0.00819672131147541
+            ],
+            "pageNumber": 5
+          },
+          "confidence": 99,
+          "extractedValue": 1
+        }
+      ],
+      "HiredNonOwnedAutoIndicator": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Email",
+            "location": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 100,
+          "extractedValue": "No"
+        }
+      ],
+      "PolicySummaryEffectiveDate": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.05653710247349823,
+              0.5865209471766849,
+              0.05771495877502945,
+              0.00819672131147541
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 89,
+          "extractedValue": "07/22/2022"
+        }
+      ],
+      "PolicySummaryExpirationDate": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.1707891637220259,
+              0.5865209471766849,
+              0.05771495877502945,
+              0.00819672131147541
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 89,
+          "extractedValue": "07/22/2023"
+        }
+      ],
+      "WCRatingInformationExposure": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "",
+            "location": [],
+            "pageNumber": 0
+          },
+          "confidence": 0,
+          "extractedValue": "Not Found"
+        }
+      ],
+      "NamedInsuredMailingStreetLine1": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.6548269581056466,
+              0.07184923439340399,
+              0.008196721311475419
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 89,
+          "extractedValue": "P O BOX 365"
+        },
+        {
+          "Id": 1,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.7540983606557378,
+              0.2826855123674912,
+              0.001
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 72,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 2,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.860655737704918,
+              0.1625441696113074,
+              0.001
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 72,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 3,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03769140164899882,
+              0.22222222222222224,
+              0.2037691401648999,
+              0.001
+            ],
+            "pageNumber": 6
+          },
+          "confidence": 51,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 4,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03769140164899882,
+              0.32877959927140255,
+              0.15901060070671377,
+              0.001
+            ],
+            "pageNumber": 6
+          },
+          "confidence": 51,
+          "extractedValue": "Not Found"
+        }
+      ],
+      "NamedInsuredMailingStreetLine2": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.6828816029143898,
+              0.008196721311475419,
+              0.002
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 18,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 1,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.7540983606557378,
+              0.2826855123674912,
+              0.001
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 72,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 2,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.860655737704918,
+              0.1625441696113074,
+              0.001
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 72,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 3,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03769140164899882,
+              0.22222222222222224,
+              0.2037691401648999,
+              0.001
+            ],
+            "pageNumber": 6
+          },
+          "confidence": 51,
+          "extractedValue": "Not Found"
+        },
+        {
+          "Id": 4,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03769140164899882,
+              0.32877959927140255,
+              0.15901060070671377,
+              0.001
+            ],
+            "pageNumber": 6
+          },
+          "confidence": 51,
+          "extractedValue": "Not Found"
+        }
+      ],
+      "WorkersCompensationPart1States": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "",
+            "location": [],
+            "pageNumber": 0
+          },
+          "confidence": 0,
+          "extractedValue": "Not Found"
+        }
+      ],
+      "BrokerInsuredMailingStreetLine1": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Email",
+            "location": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "pageNumber": 1
+          },
+          "fieldName": "BrokerInsuredMailingStreetLine1",
+          "confidence": 100,
+          "extractedValue": "300 North Beach Street"
+        }
+      ],
+      "BrokerInsuredMailingStreetLine2": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.1300582877959927,
+              0.008196721311475419,
+              0.002
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 72,
+          "extractedValue": "Not Found"
+        }
+      ],
+      "GLScheduleofHazardsPremiumBasis": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.23674911660777384,
+              0.4726775956284153,
+              0.008244994110718492,
+              0.00819672131147541
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 99,
+          "extractedValue": "C"
+        },
+        {
+          "Id": 1,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.23674911660777384,
+              0.563752276867031,
+              0.007067137809187279,
+              0.00819672131147541
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 99,
+          "extractedValue": "P"
+        },
+        {
+          "Id": 2,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.23674911660777384,
+              0.6548269581056466,
+              0.007067137809187279,
+              0.00819672131147541
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 99,
+          "extractedValue": "P"
+        },
+        {
+          "Id": 3,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.23674911660777384,
+              0.19216757741347906,
+              0.0353356890459364,
+              0.00819672131147541
+            ],
+            "pageNumber": 5
+          },
+          "confidence": 99,
+          "extractedValue": "Payroll"
+        },
+        {
+          "Id": 4,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.23674911660777384,
+              0.28324225865209474,
+              0.028268551236749116,
+              0.00819672131147541
+            ],
+            "pageNumber": 5
+          },
+          "confidence": 99,
+          "extractedValue": "Other"
+        },
+        {
+          "Id": 5,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.23674911660777384,
+              0.3743169398907104,
+              0.0353356890459364,
+              0.00819672131147541
+            ],
+            "pageNumber": 5
+          },
+          "confidence": 99,
+          "extractedValue": "Payroll"
+        },
+        {
+          "Id": 6,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.23674911660777384,
+              0.465391621129326,
+              0.028268551236749116,
+              0.00819672131147541
+            ],
+            "pageNumber": 5
+          },
+          "confidence": 99,
+          "extractedValue": "Other"
+        },
+        {
+          "Id": 7,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.23674911660777384,
+              0.5564663023679417,
+              0.024734982332155476,
+              0.00819672131147541
+            ],
+            "pageNumber": 5
+          },
+          "confidence": 99,
+          "extractedValue": "Area"
+        }
+      ],
+      "GLScheduleofHazardClassification": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.0353356890459364,
+              0.5036429872495446,
+              0.11778563015312132,
+              0.00819672131147541
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 99,
+          "extractedValue": "SUB CONTRACTORS"
+        },
+        {
+          "Id": 1,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.0353356890459364,
+              0.5947176684881603,
+              0.10954063604240283,
+              0.00819672131147541
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 99,
+          "extractedValue": "GRADING OF LAND"
+        },
+        {
+          "Id": 2,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.0353356890459364,
+              0.6848816029143898,
+              0.11778563015312132,
+              0.00819672131147541
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 99,
+          "extractedValue": "FORESTRY SERVICE"
+        },
+        {
+          "Id": 3,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.0353356890459364,
+              0.22313296903460839,
+              0.14605418138987045,
+              0.00819672131147541
+            ],
+            "pageNumber": 5
+          },
+          "confidence": 99,
+          "extractedValue": "LANDSCAPE GARDENING"
+        },
+        {
+          "Id": 4,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.0353356890459364,
+              0.31420765027322406,
+              0.2061248527679623,
+              0.00819672131147541
+            ],
+            "pageNumber": 5
+          },
+          "confidence": 99,
+          "extractedValue": "BLANKET AI EXCLUDING COMP OPS"
+        },
+        {
+          "Id": 5,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.0353356890459364,
+              0.40437158469945356,
+              0.08480565371024736,
+              0.00819672131147541
+            ],
+            "pageNumber": 5
+          },
+          "confidence": 99,
+          "extractedValue": "Permanent Yard"
+        },
+        {
+          "Id": 6,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.0353356890459364,
+              0.49544626593806923,
+              0.5229681978798587,
+              0.00819672131147541
+            ],
+            "pageNumber": 5
+          },
+          "confidence": 99,
+          "extractedValue": "ADDITIONAL INTERESTS (55205) FOR CANDITOCONSTRUCTION (AI W/COMP OPS AND PNC)"
+        },
+        {
+          "Id": 7,
+          "location": {
+            "fileName": "GL.PDF",
+            "location": [
+              0.0353356890459364,
+              0.5865209471766849,
+              0.2591283863368669,
+              0.00819672131147541
+            ],
+            "pageNumber": 5
+          },
+          "confidence": 99,
+          "extractedValue": "FARMS - OVER 500 ACRES - INCLUDING P/CO"
+        }
+      ],
+      "WCRatingInformationClassification": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "",
+            "location": [],
+            "pageNumber": 0
+          },
+          "confidence": 0,
+          "extractedValue": "Not Found"
+        }
+      ],
+      "ExpiringPremiumExceeds100KIndicator": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.07254901960784314,
+              0.9103302029687973,
+              0.8854901960784315,
+              0.01302635564980309
+            ],
+            "pageNumber": 3
+          },
+          "confidence": 86,
+          "extractedValue": "Yes"
+        }
+      ],
+      "NamedInsuredDescriptionofOperations": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.03651354534746761,
+              0.5264116575591985,
+              0.7656065959952886,
+              0.01821493624772319
+            ],
+            "pageNumber": 2
+          },
+          "confidence": 87,
+          "extractedValue": "North Florida Reforestation is Forestry & Farming, planting trees Roberts Site Development is a site preparation business for building and road work.: clearing, ponding and general earthwork no road construction"
+        }
+      ],
+      "BrokerofRecordLetterReceivedIndicator": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "NA",
+            "location": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "pageNumber": 1
+          },
+          "confidence": 79,
+          "extractedValue": "No"
+        }
+      ],
+      "PropertyScheduleofHazardPropertyValues": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "",
+            "location": [],
+            "pageNumber": 0
+          },
+          "confidence": 0,
+          "extractedValue": "Not Found"
+        }
+      ],
+      "PropertyScheduleofHazardPremiseStreetAddress": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "",
+            "location": [],
+            "pageNumber": 0
+          },
+          "confidence": 0,
+          "extractedValue": "Not Found"
+        }
+      ],
+      "SubmissionInstructionsInstructionTextIndicator": [
+        {
+          "Id": 0,
+          "location": {
+            "fileName": "Acord125.PDF",
+            "location": [
+              0.027058823529411764,
+              0.8088458043017267,
+              0.9462745098039216,
+              0.04150257497727961
+            ],
+            "pageNumber": 3
+          },
+          "confidence": 73,
+          "extractedValue": "No"
+        }
+      ]
+    }
+  ]
+}
